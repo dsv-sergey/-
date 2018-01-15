@@ -1,0 +1,40 @@
+.body-style {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.display-inline {
+    display: inline;
+}
+.display-flex {
+    display: flex;
+}
+.display-block {
+    display: block;
+}
+.display-inline-block {
+    display: inline-block;
+}
+.full-height {
+    height: 100%;
+}
+.full-width {
+    width: 100%;
+}
+.list-style-type-none {
+    list-style-type: none;
+}
+/*------------------------------------*/
+.home-page {
+    background: url("../HomePage.png");
+    width: 1970px;
+    height: 5396px;
+    opacity: 0.2;
+    top: 0;
+    left: -338px;
+
+}

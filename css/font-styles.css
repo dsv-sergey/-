@@ -1,0 +1,193 @@
+/*переделать pt в px  ?????    */
+.text-decoration-none {
+    text-decoration: none;
+}
+.font-nav-bar-header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 2;
+    letter-spacing: 1.1px;
+}
+.font-nav-bar-header:hover {
+    color: #ffac55;
+}
+.font-title-h1 {
+    font-family: 'Montserrat Bold', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.font-title-h1-small {
+    font-family: 'Montserrat Bold', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #fff;
+    text-transform: uppercase;
+    display: block;
+    line-height: 2.4;
+}
+.font-index-h2 {
+    font-family: 'Montserrat Extra Bold', sans-serif;
+    font-size: 32px;
+    font-weight: bolder;
+    color: #343a3b;
+    text-transform: uppercase;
+}
+.font-title-h3 {
+    font-family: 'Montserrat Bold', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+}
+.font-about-us-p {
+    font-family: 'Domine', serif;
+    font-size: 15px;
+    color: #838b8c;
+    line-height: 1.9;
+}
+.font-our-features-p {
+    font-family: 'Domine', serif;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #838b8c;
+}
+.font-title-our-features-h3 {
+    font-family: 'Montserrat Bold', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #343a3b;
+    text-transform: uppercase;
+}
+.our-features-botboxtext {
+    font-family: 'Domine', serif;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.2;
+}
+.our-features-button-text {
+    font-family: 'Montserrat Bold', sans-serif;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    line-height: 3.5em;
+    text-transform: uppercase;
+}
+.font-title-h3-projects {
+    color: #343a3b;
+    padding-top: 30px;
+}
+.font-review-projects {
+    font-family: 'Domine Bold', serif;
+    font-size: 17px;
+    color: #838b8c;
+    line-height: 1.6;
+}
+.font-for-button {
+    font-size: 13px;
+    font-family: 'Montserrat Bold', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+}
+.testimonials-font-style {
+    color: #fff;
+    text-align: center;
+}
+.font-review {
+    font-family: 'Domine', serif;
+    font-size: 15px;
+    line-height: 2;
+}
+.font-title-h3-services {
+    font-family: 'Montserrat bold', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: #343a3b;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 72px 0 10px 0;
+}
+.font-text-blog {
+    font-family: 'Domine', serif;
+    font-size: 15px;
+    color: #838b8c;
+    line-height: 1.9;
+    margin-top: 4px;
+}
+.font-title-h3-blog {
+    font-family: 'Montserrat Bold', sans-serif;
+    font-weight: bold;
+    color: #343a3b;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.font-date {
+    font-size: 15px;
+    font-family: 'Domine', serif;
+    color: #343a3b;
+}
+.font-titles-contacts-internal {
+    font-size: 18px;
+    font-family: 'Montserrat bold', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.2;
+    color: #343a3b;
+}
+.font-information-contacts {
+    font-size: 18px;
+    font-family: "Domine", sans-serif;
+    color: #343a3b;
+    line-height: 2;
+}
+.footer-navigation-titles {
+    font-family: 'Montserrat Bold', sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+}
+.footer-common-list-style {
+    font-family: 'Montserrat Regular', sans-serif;
+    color: #838b8c;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 9pt;
+    letter-spacing: 1.1px;
+}
+.footer-newsletter-text-style {
+    font-family: 'Domine', serif;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #838b8c;
+}
+.footer-email-form-style {
+    font-family: 'Montserrat Bold', sans-serif;
+    color: #838b8c;
+    font-weight: bolder;
+    font-size: 9pt;
+
+}
+.footer-submit-form-style {
+    font-family: 'Montserrat Bold', sans-serif;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 9pt;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.footer-social-links-style {
+    font-family: 'Montserrat Bold', sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 9pt;
+    text-decoration: none;
+    letter-spacing: 1.1px;
+}
